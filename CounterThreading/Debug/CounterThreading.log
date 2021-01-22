@@ -1,0 +1,6 @@
+﻿  CounterThreadingView.cpp
+C:\Users\Tomin\source\repos\CounterThreading\CounterThreading\CounterThreadingView.cpp(94,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomin\source\repos\CounterThreading\CounterThreading\CounterThreadingView.cpp(94,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomin\source\repos\CounterThreading\CounterThreading\CounterThreadingView.cpp(94,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomin\source\repos\CounterThreading\CounterThreading\CounterThreadingView.cpp(94,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CounterThreading.vcxproj -> C:\Users\Tomin\source\repos\CounterThreading\Debug\CounterThreading.exe
